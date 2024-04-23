@@ -1,0 +1,28 @@
+Sito analizzato: [http://localhost/wordpress-progetto-S2-L5/services/]
+
+Aree che richiedono miglioramenti: 
+- article- Where we are?
+
+Miglioramento suggerito n°1: frase chiave
+
+Miglioramento suggerito n°2: aggiunta meta descrizione
+
+Miglioramento suggerito n°3: testo alt img
+
+Miglioramento suggerito n°4: parole chiavi nel titolo
+
+
+Miglioramento suggerito n°5: aggiunta link interni ed esterni
+
+- article- Our successes!!
+
+Miglioramento suggerito n°1: frase chiave
+
+Miglioramento suggerito n°2: aggiunta meta descrizione
+
+Miglioramento suggerito n°3: testo alt img
+
+Miglioramento suggerito n°4: parole chiavi nel titolo
+
+
+Miglioramento suggerito n°5: aggiunta link interni ed esterni
